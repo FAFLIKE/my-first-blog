@@ -1,0 +1,28 @@
+    body {
+        background-color: #e7e6e2;
+        padding-left: 15px
+    }
+
+    .headText a {
+        color: #b44f1e;
+    }
+
+    .Post {
+        border: 4px solid #1a1918; /* Параметры границы */
+        background-color: #f5e1bf; /* Цвет фона */
+        padding: 10px; /* Поля вокруг текста */
+        margin-right: 50px;
+        margin-top: 5px;
+        
+    }
+        
+    .Post_text {
+        color: #d4a752;
+    }
+
+    .Post_title a {
+        color: #b44f1e;
+    }
+
+          
+    
