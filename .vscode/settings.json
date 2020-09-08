@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "c:\\Users\\Flike\\django\\djangogirls\\myvenvpython\\Scripts\\python.exe"
+    "python.pythonPath": "c:\\Users\\Flike\\django\\djangogirls\\myvenvpython\\Scripts\\python.exe",
+    "git.ignoreLimitWarning": true
 }
